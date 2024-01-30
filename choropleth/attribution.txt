@@ -1,0 +1,2 @@
+fips unemployment original file retrieved from plotly
+https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json
