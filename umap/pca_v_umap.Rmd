@@ -1,0 +1,52 @@
+---
+title: "PCA and UMAP"
+author: "Student"
+date: "2024-03-27"
+output:
+  html_document:
+    code_folding: show
+---
+
+# Setup
+```{r}
+knitr::opts_chunk$set(message=F)
+```
+
+## Library Loading
+```{r}
+# load plotly and umap
+```
+
+## Data Loading
+
+```{r}
+# load iris dataset
+```
+
+# Build and Plot PCA
+
+```{r}
+# build pca model
+```
+
+```{r}
+# plot 2D pca model
+```
+
+# Build and Plot UMAP
+
+```{r}
+# build umap model
+# set seed to 5 for reproducibility
+
+# plot 2D umap model
+```
+
+# Questions
+
+
+1. Does the petal length consistently increase as you go along the x axis in PCA?
+2. Does the petal length consistently increase as you go along the y axis in PCA?
+3. Does the petal length consistently increase as you go along the x axis in UMAP?
+4. Does the petal length consistently increase as you go along the y axis in UMAP?
+5. Which method has axes that are interpretable in terms of the original variables?
